@@ -1,0 +1,15 @@
+.hover:hover {
+    background-color: #000;
+    color: white;
+    border: #000 2px solid;
+    -webkit-transform: translate(0px, -2px);
+    -ms-transform: translate(0px, -2px);
+    transform: translate(0px, -2px);
+}
+
+.hover-outlined:hover {
+    opacity: .7;
+    -webkit-transform: translate(0px, -2px);
+    -ms-transform: translate(0px, -2px);
+    transform: translate(0px, -2px);
+}
